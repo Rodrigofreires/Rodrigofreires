@@ -1,11 +1,5 @@
 # Olá, eu sou Rodrigo Freires 👨‍💻
 
-
-
-<div style="text-align: center;">
-  <img src="https://github.com/rodrigofreires.png" width="400" height="400" alt="Rodrigo Freires" style="border-radius: 50%;" />
-</div>
-
 ## 🔧 Ferramentas e Tecnologias
 
 <div style="display: flex; justify-content: center; gap: 10px;">
