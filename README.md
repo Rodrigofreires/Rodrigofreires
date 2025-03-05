@@ -15,13 +15,11 @@
 </div>
 
 ## Sobre mim
+**Construção de sistemas**, desde o **planejamento** até a **entrega completa ao usuário**, garantindo que cada etapa seja bem executada e alinhada com as expectativas do cliente.
 
 
-Sou **Desenvolvedor Full Stack Júnior** com experiência em **C#**, **.NET**, **SQL Server**, **Angular**, **Node.js** e **TypeScript**. Tenho habilidades na criação de **APIs RESTful**, aplicação de princípios **SOLID** e boas práticas de desenvolvimento.
+Sou **Desenvolvedor Full Stack Júnior** com experiência em **C#**, **.NET**, **SQL Server**, **Angular**, **Node.js** e **TypeScript**. Tenho habilidades na criação de **APIs RESTful**, aplicação de princípios **SOLID** e boas práticas de desenvolvimento. A combinadação da minha experiência como **jornalista** com  a **tecnologia**, traz a eficiência da apuração de informações, gestão de problemas, agilidade nas entregas, respeito aos prazos e preservação da **LGPD** tão necessário na atualidade. 
 
-Atrelo minha experiência de **jornalista** ao mundo da **tecnologia**, trazendo para o desenvolvimento a eficiência da apuração de informações, gestão de problemas, agilidade nas entregas, respeito aos prazos e a preservação da **LGPD** aos clientes. Essa combinação de habilidades me permite entregar soluções de qualidade e focadas nas necessidades dos usuários.
-
-Atualmente, atuo diariamente na **construção de sistemas**, desde o **planejamento** até a **entrega completa ao usuário**, garantindo que cada etapa seja bem executada e alinhada com as expectativas do cliente.
 
 🌍 **Localização**: São Paulo, Brasil  
 💼 **Cargo**: Desenvolvedor Full Stack Júnior  
@@ -62,3 +60,7 @@ A jornada para um futuro mais justo e transparente na informação começa com V
 - **Produção e Edição de Conteúdo Jornalístico**
 
 ---
+
+**"A borboleta nos acha pesados; o pavão, mal vestidos; o rouxinol, roucos; e a águia, rastejantes."** Joaquim Nabuco
+
+
