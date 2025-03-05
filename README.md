@@ -1,26 +1,11 @@
-# Olá, eu sou Rodrigo Freires 👨‍💻
-
-## 🔧 Ferramentas e Tecnologias
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/C%23-9B4D96?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</div>
-
-## Sobre mim
-**Construção de sistemas**, desde o **planejamento** até a **entrega completa ao usuário**, garantindo que cada etapa seja bem executada e alinhada com as expectativas do cliente.
+# Oi, tudo bem? Como vai?
 
 
-Sou Desenvolvedor Full Stack Júnior com experiência em C#, .NET, SQL Server, Angular, Node.js e TypeScript. Possuo habilidades na criação de APIs RESTful, aplicação de princípios SOLID e adoção das melhores práticas de desenvolvimento.
+Sou Desenvolvedor Full Stack Júnior com experiência em C#, .NET, SQL Server, Angular, Node.js e TypeScript. Tenho habilidades na criação de APIs RESTful, aplicação dos princípios SOLID e adoção das melhores práticas de desenvolvimento. Além disso, minha trajetória inclui mais de seis anos de experiência como jornalista, atuando diretamente em diversas mídias digitais e desenvolvendo uma forte habilidade de comunicação.
 
-Minha trajetória une o universo da tecnologia à minha experiência como jornalista, trazendo um olhar estratégico para a gestão de problemas, agilidade nas entregas, respeito aos prazos e preservação da LGPD, aspectos cada vez mais essenciais no cenário digital. Essa combinação me permite desenvolver soluções robustas, seguras e focadas na excelência.
+Minha vivência no jornalismo me permitiu aprimorar uma visão estratégica para a gestão de problemas, agilidade nas entregas, respeito aos prazos e preservação da LGPD — aspectos essenciais no mundo digital atual. Mais do que codificar, busco entender a dor do cliente e desenvolver soluções que atendam suas reais necessidades.
+
+Com essa combinação de tecnologia, experiência em mídias digitais e sensibilidade para as necessidades do usuário, consigo criar soluções robustas, seguras e eficientes, sempre priorizando a excelência e a usabilidade.
 
 
 🌍 **Localização**: São Paulo, Brasil  
