@@ -18,7 +18,9 @@
 **Construção de sistemas**, desde o **planejamento** até a **entrega completa ao usuário**, garantindo que cada etapa seja bem executada e alinhada com as expectativas do cliente.
 
 
-Sou **Desenvolvedor Full Stack Júnior** com experiência em **C#**, **.NET**, **SQL Server**, **Angular**, **Node.js** e **TypeScript**. Tenho habilidades na criação de **APIs RESTful**, aplicação de princípios **SOLID** e boas práticas de desenvolvimento. A combinadação da minha experiência como **jornalista** com  a **tecnologia**, traz a eficiência da apuração de informações, gestão de problemas, agilidade nas entregas, respeito aos prazos e preservação da **LGPD** tão necessário na atualidade. 
+Sou Desenvolvedor Full Stack Júnior com experiência em C#, .NET, SQL Server, Angular, Node.js e TypeScript. Possuo habilidades na criação de APIs RESTful, aplicação de princípios SOLID e adoção das melhores práticas de desenvolvimento.
+
+Minha trajetória une o universo da tecnologia à minha experiência como jornalista, trazendo um olhar estratégico para a gestão de problemas, agilidade nas entregas, respeito aos prazos e preservação da LGPD, aspectos cada vez mais essenciais no cenário digital. Essa combinação me permite desenvolver soluções robustas, seguras e focadas na excelência.
 
 
 🌍 **Localização**: São Paulo, Brasil  
