@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 300" width="320" height="300">
+  <style>
+    .blink{animation:blink 4s infinite;transform-origin:center;transform-box:fill-box}
+    @keyframes blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+    .antena{animation:pulse 1.6s ease-in-out infinite}
+    @keyframes pulse{0%,100%{fill:#22D3EE;opacity:1}50%{fill:#8B5CF6;opacity:.5}}
+    .aceno{animation:wave 2.4s ease-in-out infinite;transform-origin:232px 150px}
+    @keyframes wave{0%,60%,100%{transform:rotate(0)}70%{transform:rotate(-28deg)}80%{transform:rotate(6deg)}90%{transform:rotate(-20deg)}}
+    .flutua{animation:float 3s ease-in-out infinite}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+    .b1,.b2,.b3,.b4{transform-origin:bottom;transform-box:fill-box;animation:grow 3.2s ease-in-out infinite}
+    .b2{animation-delay:.2s}.b3{animation-delay:.4s}.b4{animation-delay:.6s}
+    @keyframes grow{0%,10%{transform:scaleY(.15)}45%,85%{transform:scaleY(1)}100%{transform:scaleY(.15)}}
+    .linha{stroke-dasharray:120;stroke-dashoffset:120;animation:draw 3.2s ease-in-out infinite}
+    @keyframes draw{0%,15%{stroke-dashoffset:120}55%,85%{stroke-dashoffset:0}100%{stroke-dashoffset:120}}
+    .cursor{animation:cur 1s steps(1) infinite}
+    @keyframes cur{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <ellipse cx="160" cy="282" rx="95" ry="9" fill="#8B5CF6" opacity=".18"/>
+
+  <g class="flutua">
+    <!-- antena -->
+    <line x1="160" y1="38" x2="160" y2="62" stroke="#A5B4FC" stroke-width="4" stroke-linecap="round"/>
+    <circle class="antena" cx="160" cy="32" r="8" fill="#22D3EE"/>
+
+    <!-- cabeça -->
+    <rect x="104" y="60" width="112" height="84" rx="26" fill="#312E81"/>
+    <rect x="116" y="74" width="88" height="54" rx="18" fill="#0D1117"/>
+    <rect class="blink" x="134" y="90" width="14" height="20" rx="7" fill="#22D3EE"/>
+    <rect class="blink" x="172" y="90" width="14" height="20" rx="7" fill="#22D3EE"/>
+    <path d="M148 118 q12 8 24 0" stroke="#22D3EE" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <rect x="94" y="88" width="10" height="26" rx="5" fill="#8B5CF6"/>
+    <rect x="216" y="88" width="10" height="26" rx="5" fill="#8B5CF6"/>
+
+    <!-- corpo -->
+    <rect x="118" y="148" width="84" height="70" rx="20" fill="#4338CA"/>
+    <circle cx="160" cy="170" r="6" fill="#22D3EE" opacity=".9"/>
+
+    <!-- braço esquerdo apoiado -->
+    <path d="M118 165 q-24 18 -14 48" stroke="#4338CA" stroke-width="14" fill="none" stroke-linecap="round"/>
+    <!-- braço direito acenando -->
+    <g class="aceno">
+      <path d="M202 160 q30 -6 34 -40" stroke="#4338CA" stroke-width="14" fill="none" stroke-linecap="round"/>
+      <circle cx="237" cy="114" r="11" fill="#8B5CF6"/>
+    </g>
+  </g>
+
+  <!-- notebook com gráfico de growth -->
+  <rect x="70" y="200" width="180" height="70" rx="10" fill="#1E1B4B" stroke="#8B5CF6" stroke-width="2"/>
+  <rect class="b1" x="92"  y="228" width="16" height="30" rx="3" fill="#6366F1"/>
+  <rect class="b2" x="116" y="220" width="16" height="38" rx="3" fill="#7C3AED"/>
+  <rect class="b3" x="140" y="212" width="16" height="46" rx="3" fill="#8B5CF6"/>
+  <rect class="b4" x="164" y="206" width="16" height="52" rx="3" fill="#A78BFA"/>
+  <polyline class="linha" points="190,252 204,238 216,244 234,214" fill="none" stroke="#22D3EE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect class="cursor" x="232" y="248" width="8" height="10" fill="#22D3EE"/>
+</svg>
